@@ -7,7 +7,7 @@
 
 # Hi 👋, I'm Jemin Mesvaniya
 
-## Frontend Web Developer
+## Java Full Stack Devloper
 
 🚀 Passionate about building responsive and modern websites.
 
